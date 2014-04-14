@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1356123160 source:c:\users\osaze\documents\codeblocks\utilityapp\main.cpp
+	<iostream>
+	<windows.h>
+
